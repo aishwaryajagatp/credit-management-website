@@ -16,7 +16,7 @@ $result=mysqli_query($con,$q);
    <title>
    viewUser
     </title>
-    <link rel="stylesheet" href="Assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
     </head>
     <body>
     <div class="view">

@@ -12,7 +12,7 @@ $_SESSION['to']=$_POST["transfer"];
    <title>
    viewUser
     </title>
-    <link rel="stylesheet" href="Assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
    <style>
      
          input[type=text]

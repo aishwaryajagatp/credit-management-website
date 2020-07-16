@@ -14,7 +14,7 @@ $_SESSION['name']=$name;
    <title>
    viewUser
     </title>
-    <link rel="stylesheet" href="Assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
 
 </head>
     <body>
